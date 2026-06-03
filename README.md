@@ -22,7 +22,7 @@ It has 3 separate printed pieces. The base where the PCB sits, and the top cover
 <img width="914" height="594" alt="Screenshot 2026-06-02 183122" src="https://github.com/user-attachments/assets/937a2e44-b717-42bc-9651-1b64ef4a7534" />
 Schematic
 
-PCB
+PCB:
 Here's my PCB! It was made in KiCad.
 
 <img width="1005" height="745" alt="Screenshot 2026-06-02 183103" src="https://github.com/user-attachments/assets/218fff5e-09d5-4d0d-be3b-39b065dac786" />

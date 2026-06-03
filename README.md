@@ -2,14 +2,14 @@
 My real attempt at making/designing a hackpad
 
 PadSlaws
-My PadSlaws is a 4 key macropad with a rotary encoder, an OLED Display. it has 4 LEDs under each bey, and uses QMK firmware.
+My PadSlaws is a 4 key macropad with a rotary encoder, an OLED Display, has 4 LEDs under each bey, and uses QMK firmware.
 
 Features:
 Dual layer plastic case with an extra acrylic piece to protect the inside.
-128x32 OLED Display
-EC11 Rotary encoder
-4 RGB LEDs
-4 Keys
+128x32 OLED Display.
+EC11 Rotary encoder.
+4 RGB LEDs.
+4 Keys.
 
 <img width="1075" height="574" alt="Screenshot 2026-06-02 183146" src="https://github.com/user-attachments/assets/07315b8f-3d49-439c-b20b-01ae2ab89083" />
 Made in Fusion360.

@@ -37,17 +37,16 @@ Right now all the keys just do basic stuff (typing letters), but its pretty easy
 BOM:
 Here should be everything you need to make this hackpad
 
-Qty	Part
-1	  Seeed Studio XIAO RP2040
-4	  Cherry MX compatible switches
-4	  1u keycaps
-4	  SK6812MINI-E RGB LEDs
-1	  EC11 rotary encoder with push switch
-1	  Encoder knob
-1	  0.91" I2C OLED display
-1	  1x04 2.54mm pin header for OLED
-1	  Custom PCB
-1	  3D printed top case
-1	  3D printed bottom case
-4	  Screws
-4	  Heat-set inserts or nuts
+1xSeeed Studio XIAO RP2040
+4xCherry MX compatible switches
+4x1u keycaps
+4xSK6812MINI-E RGB LEDs
+1xEC11 rotary encoder with push switch
+1xEncoder knob
+1x0.91" I2C OLED display
+1x1x04 2.54mm pin header for OLED
+1xCustom PCB
+1x3D printed top case
+1x3D printed bottom case
+4xBolts
+4xHeat-set inserts or nuts

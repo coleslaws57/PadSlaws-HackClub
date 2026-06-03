@@ -5,7 +5,7 @@ PadSlaws
 My PadSlaws is a 4 key macropad with a rotary encoder, an OLED Display. it has 4 LEDs under each bey, and uses QMK firmware.
 
 Features:
-Dual layer plastic case.
+Dual layer plastic case with an extra acrylic piece to protect the inside.
 128x32 OLED Display
 EC11 Rotary encoder
 4 RGB LEDs

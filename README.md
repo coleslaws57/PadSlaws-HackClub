@@ -28,10 +28,11 @@ Here's my PCB! It was made in KiCad.
 <img width="1005" height="745" alt="Screenshot 2026-06-02 183103" src="https://github.com/user-attachments/assets/218fff5e-09d5-4d0d-be3b-39b065dac786" />
 PCB Schematic
 
-Firmware Overview
+
+Firmware Overview:
 This hackpad uses QMK firmware for everything.
 
-Right now all the keys just do basic stuff (typing letters), but I probably change them later.
+Right now all the keys just do basic stuff (typing letters), but its pretty easy to change that.
 
 BOM:
 Here should be everything you need to make this hackpad
